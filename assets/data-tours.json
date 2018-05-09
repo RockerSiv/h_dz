@@ -1,0 +1,57 @@
+[
+  {
+    "country": "Australia",
+    "price": "899",
+    "city": "Sydney"
+  },
+  {
+    "country": "Brazil",
+    "price": "499",
+    "city": "Brasilia"
+  },
+  {
+    "country": "China",
+    "price": "599",
+    "city": "Beijing"
+  },
+  {
+    "country": "England",
+    "price": "1499",
+    "city": "London"
+  },
+  {
+    "country": "France",
+    "price": "1199",
+    "city": "Paris"
+  },
+  {
+    "country": "India",
+    "price": "799",
+    "city": "New Delhi"
+  },
+  {
+    "country": "Italy",
+    "price": "499",
+    "city": "Rome"
+  },
+  {
+    "country": "Netherlands",
+    "price": "1099",
+    "city": "Amsterdam"
+  },
+  {
+    "country": "Spain",
+    "price": "799",
+    "city": "Madrid"
+  },
+  {
+    "country": "Thailand",
+    "price": "699",
+    "city": "Bangkok"
+  },
+  {
+    "country": "Turkey",
+    "price": "599",
+    "city": "Istanbul"
+  }
+]
